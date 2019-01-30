@@ -49,20 +49,20 @@
 -progam doesn't end until user types quit
 
 ## Classes
-  1. VirtualPetShelterApp
-  2. VirtualPetShelter
-  3. Owner (user)
-  4. Caretaker 
-  5. Pet
-  	1. Bird
-  	2. Cat
-  	3. Dog
+1. VirtualPetShelterApp
+2. VirtualPetShelter
+3. Owner (user)
+4. Caretaker 
+5. Pet
+	1. Bird
+	2. Cat
+	3. Dog
 
 ## Test Classes
-  1. VirtualPetShelterTest
-  2. OwnerTest (user)
-  3. CaretakerTest 
-  4. Pet
-  	1. BirdTest
-  	2. CatTest
-  	3. DogTest
+1. VirtualPetShelterTest
+2. OwnerTest (user)
+3. CaretakerTest 
+4. Pet
+	1. BirdTest
+	2. CatTest
+	3. DogTest
