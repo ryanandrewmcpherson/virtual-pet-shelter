@@ -1,7 +1,7 @@
-#Virtual Pet Shelter
+# Virtual Pet Shelter
 	Simulates running a virtual pet shelter
 
-##App Layout
+## App Layout
 1. user is greeted then prompted for their name - they can type quit at any time to quit
 2. user is prompted to name the caretaker of the virtual pet shelter
 3. admit pet loop do while not done
