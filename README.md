@@ -33,14 +33,14 @@
 	   2. have caretaker water all pets
 	   3. interact with a pet
 	      1. interact loop while interact true (true by default)
-	        1.pet status
-	      	2.switch(pet)
-		   	  1. feed pet
-		   	     1.what type of food to feed
-	             2.feed pet method
-		   	  2. water pet
-		   	  3. play with pet
-		   	  4. main menu, interact = false;
+	        1. pet status
+	      	2. switch(pet)
+		   	    1. feed pet
+		   	        1. what type of food to feed
+	                2. feed pet method
+		   	    2. water pet
+		   	    3. play with pet
+		   	    4. main menu, interact = false;
 	   	      default. "invalid selection"
 	   	    3.tick
 	   4. admit a pet
